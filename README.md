@@ -25,7 +25,7 @@ In addition, for the same time period as the energy data, canal ahus.csv file co
 + Chilled water pump (%);
 + Binary availability schedule for the AHU fans.
 
-In addition to the data, files including the architectural, mechanical and controls drawings and sequence of operations are provided for reference.Apply   a   subset   of  the   fundamentalprinciples  and   procedures  of  inverse  modelling, energy   use benchmarking, fault and anomaly detection and diagnosis learned in the class.
+In addition to the data, files including the architectural, mechanical and controls drawings and sequence of operations are provided for reference. Apply   a   subset of the fundamental principles  and procedures  of  inverse  modelling, energy use benchmarking, fault and anomaly detection and diagnosis learned in the class.
 
 The final deliverables of the project are as follows:
 
